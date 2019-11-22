@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reaction">
+        <item>like</item>
+        <item>love</item>
+        <item>haha</item>
+        <item>wow</item>
+        <item>sad</item>
+        <item>angry</item>
+    </string-array>
+</resources>
